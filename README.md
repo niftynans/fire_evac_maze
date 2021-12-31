@@ -15,7 +15,7 @@ data structures such as lists and dictionaries.
 Glob is a unix style file manipulation library, which has been used to load
 the dataset into the working environment.
 
-Imageio Imageio is a Python library that provides an easy interface to read 
+Imageio is a Python library that provides an easy interface to read 
 and write a wide range of image data. 
 We have used it to save the final output of our working environment.
 
